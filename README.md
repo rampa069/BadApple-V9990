@@ -11,6 +11,8 @@ second SDRAM on the SiDi128), while Nextor reads the stream from the SD card
 and the R800 sends it to the V9990 and to the OPL4.  It runs on the ZEMMIX
 turbo R core and in [openMSX](https://openmsx.org/).
 
+Video: <https://youtu.be/JJknUYltgDg>
+
 ## Features
 
 **Video**
@@ -135,4 +137,4 @@ XM), which remain the property of their authors; they are not covered by the
 MIT license.
 
 Demo and core: <https://github.com/rampa069/BadApple-V9990>,
-<https://github.com/BigMist/ZEMMIX>.
+<https://github.com/BigMist/ZEMMIX>.  Video: <https://youtu.be/JJknUYltgDg>.
