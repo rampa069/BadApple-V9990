@@ -126,5 +126,13 @@ bytes of the wave tones 384-511, then the waves.
 * The Bad Apple ports that showed the way: **Ryun** and **Sharksym** (MSX),
   **Eric Lafortune** (TI-99/4A), **Bitshifters** (BBC Micro).
 
+## License
+
+The player (`badapple.asm`, `BADAPPLE.COM`) is under the MIT license, see
+[LICENSE](LICENSE).  The data files `BADAPPLE.V99` and `BADAPPLE.OPL` are
+derived from the works credited above (the PV, the song and its vocals, the
+XM), which remain the property of their authors; they are not covered by the
+MIT license.
+
 Demo and core: <https://github.com/rampa069/BadApple-V9990>,
 <https://github.com/BigMist/ZEMMIX>.
